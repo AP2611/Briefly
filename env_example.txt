@@ -1,0 +1,17 @@
+# Discord Bot Configuration
+DISCORD_TOKEN=your_discord_token
+
+# Ollama Configuration
+OLLAMA_HOST=http://localhost:11434
+OLLAMA_MODEL=mistral
+
+# Bot Settings (Optional - defaults provided)
+BOT_PREFIX=!
+
+# Summarization Settings (Optional - defaults provided)
+MAX_MESSAGES_TO_SUMMARIZE=50
+MAX_MESSAGE_LENGTH=2000
+
+# Ollama Model Settings (Optional - defaults provided)
+MAX_TOKENS=500
+TEMPERATURE=0.3 

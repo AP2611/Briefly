@@ -1,0 +1,5 @@
+discord.py==2.5.2
+ollama==0.1.7
+python-dotenv==1.0.0
+asyncio
+aiohttp==3.9.1 
